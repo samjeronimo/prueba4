@@ -1,0 +1,98 @@
+.caudro4 {
+    width: 1280px;
+    height: 700px;
+    padding: 80px;
+    gap: 80px;
+}
+
+.num4 {
+    width: 1280px;
+    height: 403px;
+    gap: 80px;
+
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr;
+}
+
+.mig img {
+    border-radius: 16px;
+}
+
+.E {
+    width: 600px;
+    height: 403px;
+    gap: 40px;
+}
+
+.linea2 {
+    width: 64px;
+    border: 4px solid #A4074D;
+    margin: 20px 0px;
+}
+
+.a {
+    margin: -36px 100px;
+}
+
+.abc {
+    margin: 50px 0px;
+    font-size: 40px;
+}
+
+.tex {
+    font-size: 24px;
+}
+
+.mor {
+    width: 307px;
+    height: 72px;
+    border-radius: 16px;
+    gap: 16px;
+    background-color: #A4074D;
+    font-size: 35px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.mar {
+    height: 177px;
+
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr;
+}
+
+.mar2 {
+    height: 177px;
+
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr;
+}
+
+.mar img {
+    width: 108px;
+    height: 60px;
+    padding: 30px 95px;
+}
+
+.p {
+    padding: 0px 80px;
+}
+
+.mar2 img {
+    width: 108px;
+    height: 60px;
+    padding: 30px 95px;
+}
+
+.p3 {
+    padding: 0px 100px;
+}
+
+.p2 {
+    padding: 0px 80px;
+}

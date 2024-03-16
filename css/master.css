@@ -1,0 +1,75 @@
+.cuadro2 {
+    width: 1280px;
+    height: 929px;
+    padding: 0px 80px 0px 80px;
+    gap: 251px;
+
+    display: flex;
+    align-items: center;
+}
+
+.contenido {
+    width: 624px;
+    height: 599px;
+    
+}
+
+.tit1 {
+    font-size: 60px;
+}
+
+.texto {
+    font-size: 23px;
+}
+
+.contenido1 {
+    font-size: 24px;
+    padding: 0px 40px;
+}
+
+.imagen8 {
+    width: 170px;
+    height: 50px;
+    object-fit: cover;
+    padding: 0px 35px;
+}
+
+.start {
+    width: 624px;
+    height: 77px;
+    gap: 16px;
+    font-size: 24px;
+
+    display: flex;
+
+}
+
+.learn {
+    width: 304px;
+    height: 77px;
+    border-radius: 16px;
+    gap: 14px;
+    background-color: #A4074D;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.learn2 {
+    width: 304px;
+    height: 77px;
+    border-radius: 16px;
+    gap: 14px;
+    border: 2px solid #A4074D;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.by {
+    width: 624px;
+    height: 108px;
+    font-size: 22px;
+}

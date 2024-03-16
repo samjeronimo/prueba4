@@ -1,0 +1,64 @@
+header {
+    width: 1440px;  
+    height: 95px; 
+
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+    
+}
+
+.imagen {
+    width: 42px;
+    height: 38px;
+    object-fit: cover;
+
+    display: flex;
+    justify-content: end;
+    padding: 10px 80px;
+    align-items:center;
+}
+
+.imagen img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.titulos {
+    width: 444px;
+    height: 25px;
+    gap: 48px;
+    border: 1px solid black;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cuadro {
+    width: 377px;
+    height: 55px;
+    gap: 24px;
+
+    display: flex;
+    align-items: center;
+}
+
+.cuadrito {
+    width: 100px;
+    height: 18px;
+    padding: 16px 80px 16px 80px;
+    border: 1px solid black;
+    gap: 8px;
+
+    display: flex;
+    align-items: center;
+    justify-content: left;
+}
+
+.cuadro img {
+    width: 23px;
+    height: 20px;
+    object-fit: cover;
+}
